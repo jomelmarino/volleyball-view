@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(184, 184, 184);
+}
+.form1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 100px;
+    
+}
+.link{
+    margin-right: 30px;
+    color: rgb(48, 48, 48);
+    
+}
+.link:hover{
+    color: aqua;
+}
+.button-link{
+    font-size: 30px;
+    color: white;
+    background-color: green;
+    transition: 0.1s;
+}
+.button-link:hover{
+    background-color: aqua;
+}
+.container1{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);}
+.container2{
+    background-color: black;
+    width: 400px;
+    height: 450px;
+    margin-right: 10px;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
+.container3{
+    background-color: rgb(255, 255, 255);
+    height: 290px;
+    border-radius: 15%;
+    transition: 1s;
+}
+.container3:hover{
+    transform: scale(1.1);
+    z-index: 1;
+}
+.qwerty1{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.pic1{
+    background-image: url(img/ball.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.pic2{
+    background-image: url(img/bag.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pic3{
+    background-image: url(img/shoes.jpg);
+    background-size: contain;
+}
+.pic4{
+    background-image: url(img/net.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic5{
+    background-image: url(img/VOLLEYBALLGEAREQUIPMENT.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic6{
+    background-image: url(img/jersy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic7{
+    background-image: url(img/ball2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic8{
+    background-image: url(img/knees.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rap{
+    margin-top: -20px;
+}
